@@ -2,7 +2,7 @@
 {
   "name": "Jesus For Trump",
   "symbol": "$Pray",
-  "description": $Pray Jesus For Trump",
+  "description": "$Pray Jesus For Trump",
   "image": "https://raw.githubusercontent.com/Hayden146101/Pray/refs/heads/main/jftPray.png",
   "extensions": {
     "website": "Jesusfortrump.us",
