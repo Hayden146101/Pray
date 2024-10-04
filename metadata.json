@@ -1,9 +1,9 @@
 
 {
-  "name": "Jesus For Trump",
-  "symbol": "$Pray",
-  "description": "$Pray Jesus For Trump",
-  "image": "https://raw.githubusercontent.com/Hayden146101/Pray/refs/heads/main/jftPray.png",
+  "name": "",
+  "symbol": "$Lock",
+  "description": "Lock",
+  "image": "https://",
   "extensions": {
     "website": "Jesusfortrump.us",
     "twitter": "https://x.com/JesusForTrump24",
